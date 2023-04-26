@@ -19,7 +19,7 @@ Incorporating Love, Pray, Exhale into our daily routines can have a profound imp
 
 ---
 ---
-Why target the wellness industry?
+# Why target the wellness industry?
 
 ## Growing Market
 The wellness industry is growing rapidly as people become more health-conscious and aware of the importance of physical and mental well-being. According to a report by the Global Wellness Institute, the wellness industry was worth over $4.5 trillion in 2018 and is projected to grow at a rate of 5-10% annually.
