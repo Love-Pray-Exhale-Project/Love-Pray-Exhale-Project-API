@@ -15,6 +15,7 @@ Prayer is a way to connect with something greater than ourselves, whether it be 
 ---
  The final step is to exhale, to let go of stress, tension, and negative energy that may be weighing us down. Taking a moment to breathe deeply, to release our worries and fears, and to focus on the present moment can be incredibly transformative.
 
+### Why Love Pray Exhale?
 Incorporating Love, Pray, Exhale into our daily routines can have a profound impact on our lives. It can help us feel more centered, grounded, and at peace with ourselves and the world. So, the next time you're feeling overwhelmed or stressed, remember to Love, Pray, Exhale.
 
 ---
