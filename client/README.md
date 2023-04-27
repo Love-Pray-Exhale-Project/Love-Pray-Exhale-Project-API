@@ -5,7 +5,6 @@
 
 ## Functional Requirements
 ---
-<br>
 
 ### Positive Affirmations
 The app shall provide users with a library of positive affirmations that they can access and customise based on their needs and preferences. Users shall be able to save their favourite affirmations and set reminders to view them throughout the day.

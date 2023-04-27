@@ -7,7 +7,7 @@ Love, Pray, Exhale is a phrase that encapsulates the essence of self-care and mi
 ---
 The first step in this trio is love. Love for oneself, for others, and for the world. Practicing self-love and self-care is essential for our physical, emotional, and mental well-being. It involves accepting ourselves with all our flaws and strengths, treating ourselves with kindness and compassion, and setting healthy boundaries.
 
-## Prayer 🙏🏾 🤲🏾 🧘🏾‍♀️ <!--could pick between these or keep them all for inclusion-->
+## Pray 🙏🏾 🤲🏾 🧘🏾‍♀️ <!--could pick between these or keep them all for inclusion-->
 ---
 Prayer is a way to connect with something greater than ourselves, whether it be a higher power, the universe, or simply our inner selves. It allows us to express gratitude, seek guidance, and find peace and solace in times of stress or uncertainty.
 
