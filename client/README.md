@@ -1,7 +1,7 @@
 ![Banner Logo](/client/public/images/Love_Pray_Exhale.png)
 
-# Introduction 
-Love Pray Exhale is a wellness app that aims to promote mental health and wellbeing through positive affirmations, mindfulness exercises, gratitude journaling, stress management tools, community support, prayer, mood tracking, and goal setting.
+# Introduction 📖
+**Love Pray Exhale** is a wellness app that aims to promote mental health and wellbeing through positive affirmations, mindfulness exercises, gratitude journaling, stress management tools, community support, prayer, mood tracking, and goal setting.
 
 ## Functional Requirements
 ---
@@ -9,8 +9,6 @@ Love Pray Exhale is a wellness app that aims to promote mental health and wellbe
 
 ### Positive Affirmations
 The app shall provide users with a library of positive affirmations that they can access and customise based on their needs and preferences. Users shall be able to save their favourite affirmations and set reminders to view them throughout the day.
-
-
 
 ### Mindfulness Exercises
 The app shall provide users with guided meditations, breathing exercises, and other mindfulness practices to help them reduce stress, improve focus, and increase self-awareness. Users shall be able to customise the duration and intensity of each exercise.
@@ -37,6 +35,7 @@ The app shall provide users with a goal-setting feature that allows them to set 
 ---
 
 ### Performance
+
 The app shall load quickly and respond to user interactions in a timely manner. Users shall be able to use the app without experiencing lag or crashes.
 
 ### Usability
