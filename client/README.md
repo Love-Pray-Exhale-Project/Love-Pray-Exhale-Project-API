@@ -6,13 +6,13 @@
 ## Functional Requirements
 ---
 
-### Positive Affirmations
+### Positive Affirmations 
 The app shall provide users with a library of positive affirmations that they can access and customise based on their needs and preferences. Users shall be able to save their favourite affirmations and set reminders to view them throughout the day.
 
 ### Mindfulness Exercises
 The app shall provide users with guided meditations, breathing exercises, and other mindfulness practices to help them reduce stress, improve focus, and increase self-awareness. Users shall be able to customise the duration and intensity of each exercise.
 
-### Gratitude Journaling
+### Gratitude Journaling 
 The app shall provide users with a digital journal where they can record their thoughts and feelings. Users shall be able to add photos, videos, and voice memos to their entries, and set reminders to journal regularly.
 
 ### Stress Management
@@ -21,7 +21,7 @@ The app shall provide users with tools to help them manage their stress levels, 
 ### Community Support
 The app shall provide users with a community forum or support group where they can connect with others who are going through similar challenges. Users shall be able to share their experiences, ask for advice, and offer support to others.[20:41]
 
-### Prayer
+### Prayer 🕊️
 The app shall provide users with guided prayers based on their needs and mood. Users shall be able to customise the length and content of each prayer and set reminders to pray regularly.
 
 ### Mood Tracking

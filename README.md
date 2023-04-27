@@ -3,7 +3,7 @@
 # What is Love Pray Exhale?
 Love, Pray, Exhale is a phrase that encapsulates the essence of self-care and mindfulness. It is a reminder to slow down, take a breath, and connect with oneself and the world around us.
 
-## Love ❤️
+## Love ❤️ <!--🧡 💛 💚 💙 💜 easter egg-->
 ---
 The first step in this trio is love. Love for oneself, for others, and for the world. Practicing self-love and self-care is essential for our physical, emotional, and mental well-being. It involves accepting ourselves with all our flaws and strengths, treating ourselves with kindness and compassion, and setting healthy boundaries.
 
