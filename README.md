@@ -37,9 +37,9 @@ The wellness industry is constantly evolving, which creates opportunities for in
 
 Overall, targeting the wellness industry can be a smart business decision due to its growing market, high demand, repeat customers, positive impact, and potential for innovation.
 
-<sub>
+
 Collaborators:
 <br>
-- Serena Isabella T. 
+@Rere88 👩🏾‍💻
 <br>
-- Monique Ogunkeyede</sub>
+@MoniqueOg 👩🏿‍💻
