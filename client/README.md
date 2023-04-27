@@ -47,3 +47,9 @@ The app shall store user data securely and protect it from unauthorised access o
 
 ### Conclusion
 The Love Pray Exhale app shall provide users with a comprehensive and personalised approach to mental wellness that addresses their needs and preferences. By incorporating positive affirmations, mindfulness exercises, gratitude journaling, stress management tools, community support, prayer, mood tracking, and goal setting, the app shall empower users to improve their mental health and wellbeing.
+
+Collaborators:
+<br>
+@Rere88 👩🏾‍💻
+<br>
+@MoniqueOg 👩🏿‍💻
