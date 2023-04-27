@@ -46,4 +46,4 @@ Collaborators:
 <br>
 [@MoniqueOg](https://www.linkedin.com/in/monique-o-7538b41b8/) 👩🏿‍💻
 
-<!-- We are open to feedback and suggestions. Please reach out to us at [Name](mailto:) with any questions or comments. -->
+We are open to feedback and suggestions. Please reach out to us with any questions or comments.💬
