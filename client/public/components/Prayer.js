@@ -1,3 +1,5 @@
+import React from 'react';
+
 // prayer component
 
 function Prayer() {

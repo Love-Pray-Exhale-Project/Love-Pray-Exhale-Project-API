@@ -1,3 +1,5 @@
+import React from 'react';
+
 // Stress management component
 
 function Management() {
@@ -7,3 +9,5 @@ function Management() {
         </div>
     )
 }
+
+export default Management;

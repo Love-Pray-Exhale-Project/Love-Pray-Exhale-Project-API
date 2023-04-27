@@ -1,3 +1,5 @@
+import React from 'react';
+
 //Community Support Page
 
 function Support() {

@@ -1,3 +1,5 @@
+import React from 'react';
+
 //mindfulleness exercises component
 
 function Exercises() {

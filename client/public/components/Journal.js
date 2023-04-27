@@ -1,3 +1,5 @@
+import React from 'react';
+
 //gratitude journal component
 
 function Journal() {

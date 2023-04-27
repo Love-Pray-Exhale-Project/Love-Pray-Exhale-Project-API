@@ -1,3 +1,5 @@
+import React from 'react';
+
 //goal setting component
 
 function Goals() {

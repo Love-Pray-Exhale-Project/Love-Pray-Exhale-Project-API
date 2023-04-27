@@ -1,3 +1,5 @@
+import React from 'react';
+
 //positive affirmations component
 
 function Affirmations() {
