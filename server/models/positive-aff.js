@@ -12,4 +12,14 @@ const TermsSchema = new Schema({
   },
 });
 
+// Table name: PositiveAffirmations
+// Partition key: Category (String)
+// Sort key: Affirmation (String)
+
+// Example item:
+// {
+// "Category": "Self-belief and confidence",
+// "Affirmation": "I am capable of achieving anything I set my mind to."
+// }
+
 mongoose.model("name of model", TermsSchema);
